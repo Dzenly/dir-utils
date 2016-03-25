@@ -1,5 +1,5 @@
 {
-  "name": "dir-utils",
+  "name": "dz-dir-utils",
   "version": "0.1.0",
   "description": "Utils for work with directories.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Dzenly/dir-utils.git"
+    "url": "git+ssh://git@github.com/Dzenly/dz-dir-utils.git"
   },
   "keywords": [
     "directory"
@@ -16,7 +16,7 @@
   "author": "Dzenly <alexchem@yandex.ru>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Dzenly/dir-utils/issues"
+    "url": "https://github.com/Dzenly/dz-dir-utils/issues"
   },
-  "homepage": "https://github.com/Dzenly/dir-utils#readme"
+  "homepage": "https://github.com/Dzenly/dz-dir-utils#readme"
 }
